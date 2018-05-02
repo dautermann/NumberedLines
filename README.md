@@ -8,7 +8,7 @@ This small project implements an editable text view with source-editor like numb
 
 >Here is the text file that should be included in the app’s bundle and loaded into the text view:
 
->And here is a video showing an example of the user interactions we’re looking for:
+>And here is a video showing an example of the user interactions we’re looking for: [NumberedLinesVideo.mov](NumberedLinesVideo.mov)
 
 >I like this challenge because there are many ways to achieve this. Pick the one that looks the best while staying performant.
 

@@ -40,13 +40,3 @@ worry if you're not able to complete all the requirements in the given amount
 of time. Instead, prioritize what you think is most important and document why
 you made those decisions.
 
-
-## Submitting
-
-Send a zipped archive of the project to Emily (evanharen@apple.com).
-
-
-## Questions?
-
-Feel free to e-mail Emily (evanharen@apple.com) if you have any questions.
-
