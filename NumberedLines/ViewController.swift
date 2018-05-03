@@ -96,5 +96,9 @@ class ViewController: NSViewController, NSTableViewDataSource, NSTableViewDelega
         
         return result
     }
+    
+    func tableView(_ tableView: NSTableView, shouldSelectRow row: Int) -> Bool {
+        return false
+    }
 }
 

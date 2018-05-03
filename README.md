@@ -6,9 +6,9 @@ This small project implements an editable text view with source-editor like numb
 
 >I’d like to have you complete the following coding exercise: [NumberedLinesCodingExercise.md](NumberedLinesCodingExercise.md)
 
->Here is the text file that should be included in the app’s bundle and loaded into the text view:
+>Here is the text file that should be included in the app’s bundle and loaded into the text view: [TextViewContent.txt](NumberedLines/TextViewContent.txt)
 
->And here is a video showing an example of the user interactions we’re looking for: [NumberedLinesVideo.mov](NumberedLinesVideo.mov)
+>And here is a video showing an example of the user interactions we’re looking for: [NumberedLinesVideo.mov](https://mail.deathstar.org/~myke/images/NumberedLinesVideo.mov)
 
 >I like this challenge because there are many ways to achieve this. Pick the one that looks the best while staying performant.
 
@@ -30,9 +30,9 @@ For a new document, I do use the "TextViewContent.txt" file that was included wi
 
 A couple days after I submitted this project, I got the message back that they weren't satisfied with this project and that they weren't going to move forward with me.  Here's the relevant quote:
 
-> we had some concerns about the coding exercise. The look and feel of the table view with the text view wasn’t quite right, and the line number behavior broke down when the line content wrapped. 
+>We had some concerns about the coding exercise. The look and feel of the table view with the text view wasn’t quite right, and the line number behavior broke down when the line content wrapped. 
 
-I'd dispute their summarization since I recalculate the line numbers whenever the contents of the text view change or when the frame changes, but I also wasn't super happy with how the two scroll views weren't perfectly synchronizing.  I am proud though, of how much I got accomplished within 2-3 hours of work.  
+I'd dispute their summarization since I recalculate the line numbers whenever the contents of the text view change or when the frame changes, but I also wasn't super happy with how the two scroll views weren't perfectly synchronizing.  I am proud though, of how much I got accomplished in about two hours of work.  
 
 If you have additional suggestions or fixes, feel free to open a pull request or type in some bugs.
 
