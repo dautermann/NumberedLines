@@ -2,6 +2,8 @@
 
 This small project implements an editable text view with source-editor like numbers.
 
+![Image from the App](NumberedLinesScreen.jpg)
+
 ## Here's the actual coding assignment from Apple:
 
 >I’d like to have you complete the following coding exercise: [NumberedLinesCodingExercise.md](NumberedLinesCodingExercise.md)
